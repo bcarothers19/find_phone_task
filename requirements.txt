@@ -1,0 +1,6 @@
+numpy
+imgaug
+keras
+pillow
+opencv-python
+tensorflow

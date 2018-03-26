@@ -1,0 +1,5 @@
+classes= 1
+train  = data/phone/train.txt
+valid  = data/phone/test.txt
+names = data/phone.names
+backup = backup/
